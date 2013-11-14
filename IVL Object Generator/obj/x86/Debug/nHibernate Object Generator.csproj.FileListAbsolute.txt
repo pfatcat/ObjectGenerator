@@ -1,0 +1,9 @@
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\bin\Debug\nHibernate Object Generator.exe
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\bin\Debug\nHibernate Object Generator.pdb
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\nHibernate_Object_Generator.Properties.Resources.resources
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\nHibernate Object Generator.exe
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\nHibernate Object Generator.pdb
+C:\Users\cwp\Documents\Visual Studio 2010\Projects\nHibernate Object Generator\nHibernate Object Generator\obj\x86\Debug\nHibernate_Object_Generator.nHibernateObjectGenerator.resources

@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\Object Generator.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\Object_Generator.ObjectGenerator.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\Object_Generator.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\Object Generator.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\bin\Release\nHibernate Object Generator.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\bin\Release\nHibernate Object Generator.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\nHibernate Object Generator.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\Object Generator\nHibernate Object Generator\obj\x86\Release\nHibernate Object Generator.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\nHibernate Object Generator.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\nHibernate Object Generator.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\bin\Release\nHibernate Object Generator.exe
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\bin\Release\nHibernate Object Generator.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\Object_Generator.ObjectGenerator.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\Object_Generator.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\Object Generator.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2012\Projects\IVL Object Generator\IVL Object Generator\obj\x86\Release\Object Generator.csprojResolveAssemblyReference.cache
